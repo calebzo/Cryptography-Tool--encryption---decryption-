@@ -1,0 +1,4 @@
+EXAMPLE:
+
+Encrypted Message: Uif rvjdl cspxo gpy! (Shift 1)
+Decrypted Message: The quick brown fox! (Shift 1)
